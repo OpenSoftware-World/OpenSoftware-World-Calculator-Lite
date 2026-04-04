@@ -1,15 +1,15 @@
 #!/usr/bin/python3
-""" Copyright© 2023-2025 LinuxUsersLinuxMint
-LinuxUsersLinuxMint Calculator-Lite Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
-LinuxUsersLinuxMint Calculator-Lite All Rights Reserved under the GPL(General Public License).
-Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calculator-Lite
-A Copy of This Software is published on GitHub To view: https://github.com/LinuxUsersLinuxMint/LinuxUsersLinuxMint-Calculator-Lite"""
+""" Copyright© 2023-2025 OpenSoftware-World
+OpenSoftware-World Calculator-Lite Tüm Hakları GPL(Genel Kamu Lisansı) altında korunmaktadır.
+OpenSoftware-World Calculator-Lite All Rights Reserved under the GPL(General Public License).
+Bu Yazılımın Bir Kopyası GitHub da yayınlanmaktadır Görüntülemek için: https://github.com/OpenSoftware-World/OpenSoftware-World-Calcutalor-Lite
+A Copy of This Software is published on GitHub To view: https://github.com/OpenSoftware-World/OpenSoftware-World-Calculator-Lite"""
 
 import sys
 from Lib.Basic_Maths.Basic_Maths import *
 from Lib.PyAppDevKit.pyappdevkit import *
 
-about = "LinuxUsersLinuxMint-Calculator-Lite 2.5"
+about = "OpenSoftware-World-Calculator-Lite 2.5"
 
 if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
