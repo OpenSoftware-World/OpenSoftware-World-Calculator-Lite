@@ -1,15 +1,15 @@
-# LinuxUsersLinuxMint Calculator Lite
+# OpenSoftware-World Calculator Lite
 
 ![License: GPL](https://img.shields.io/badge/License-GPL-blue.svg)
 ![Release Date](https://img.shields.io/badge/Release%20Date-2023--10--06-brightgreen)
 
 ---
 
-**LinuxUsersLinuxMint Calculator Lite** is a lightweight, minimal and easy-to-use calculator designed for quick and simple calculations without unnecessary complexity. 
+**OpenSoftware-World Calculator Lite** is a lightweight, minimal and easy-to-use calculator designed for quick and simple calculations without unnecessary complexity. 
 > 📅 Release date: **October 6, 2023**   
 > 📦 Initial release: **Python-Calculator-Lite 0.2.8**   
-> 📦 Current version: **LinuxUsersLinuxMint Calculator Lite 2.5**   
-> 📦 Next release: **LinuxUsersLinuxMint Calculator Lite 2.7**   
+> 📦 Current version: **OpenSoftware-World Calculator Lite 2.5**   
+> 📦 Next release: **OpenSoftware-World Calculator Lite 2.7**   
 > ⏳ Next release status: **It's not under development...**   
 > 🛠️ Next release type: **Uncertain** 
 
